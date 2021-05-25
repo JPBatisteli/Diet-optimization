@@ -1,0 +1,12 @@
+data;
+
+param Pkg := 60;
+param Cdu := 2500;
+param Qg_s := 1;
+param Qg_i := 0.6;
+param Qp_s := 3;
+param Qp_i := 2;
+
+
+
+
