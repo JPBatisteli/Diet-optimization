@@ -1,1 +1,1 @@
-# Diet-otimization
+# Diet-optimization
